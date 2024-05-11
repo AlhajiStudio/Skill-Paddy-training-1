@@ -1,0 +1,50 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+    background-image: url(design/practice\ 2.jpg);
+    background-size:cover ;
+    background-position: center;
+}
+
+
+
+h1 {
+color: rgb(175, 150, 9);
+text-align: center;
+margin: 0;
+font-size: 40px;
+background-color: black;
+}
+
+h2 {
+color: red;
+font-size: 20px;
+text-decoration: underline;
+}
+
+h4 {
+   color: rgb(13, 158, 226); 
+   font-style: italic;
+   
+}
+#top {
+    color: gold;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    background-position: center;
+    background-color: black;
+}
+.link {
+    text-decoration: none;
+    font-size: 20px;
+    color: gold;
+    
+}
+.link:hover {
+    text-decoration: underline;
+    font-size: 30px;
+    color: rgba(10, 16, 1, 0.973);
+}
